@@ -9,8 +9,8 @@ Always learning, always coding. 🚀
 <div display="flex">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
+  <img src="https://img.shields.io/badge/WPF-%23008CBA.svg?style=for-the-badge&logo=windows&logoColor=white" alt="WPF"/>
 </div>
-
 
 ### 🌱 I’m learning
 
