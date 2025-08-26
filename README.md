@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1C57FF&width=435&lines=%F0%9F%91%8B+Hey%2C+I%E2%80%99m+Saimon;A.K.A+MC-Nomias)](https://git.io/typing-svg)
 
-I'm a software developer working across **backend** 🔧 and **frontend** 🎨.
+I'm a software developer in training working across **backend** 🔧 and **frontend** 🎨.
 Passionate about clean code, smooth user experiences, and crafting reliable, maintainable software.
 Always learning, always coding. 🚀
 
