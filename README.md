@@ -24,7 +24,7 @@ Always learning, always coding. 🚀
 
 ### 📫 How to reach me
 <div display="flex">
-  <a href="mailto:maharisaimon@hotmail.com">
+  <a href="mailto:maharisaimon@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/codewithbernard/">
