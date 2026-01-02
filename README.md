@@ -31,7 +31,3 @@ Always learning, always coding. 🚀
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
----
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mc-nomias&count_private=true&show_icons=true&theme=chartreuse-dark)
